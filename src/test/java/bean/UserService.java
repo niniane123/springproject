@@ -13,7 +13,7 @@ public class UserService {
 
     @Test
     public void test_BeanFactory(){
-        // 1.初始化 BeanFactory
+        // 1.初始化 BeanFactory  增
         BeanFactory beanFactory = new BeanFactory();
 
         // 2.注册 bean
